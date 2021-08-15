@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacScott27
 - 👀 I’m interested in web development and game dev.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me macscott245@outlook.com
 
